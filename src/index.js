@@ -1,7 +1,7 @@
 import React from 'react';
-import App from './InlineEdit';
+import Editor from './InlineEdit';
 
 React.render(
-  <App />,
+  <Editor />,
   document.getElementById('root')
 );
